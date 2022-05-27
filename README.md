@@ -1,2 +1,2 @@
 # flrepo
-first repo used to orientate
+first repo used as introduction
